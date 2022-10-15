@@ -6,6 +6,9 @@
 	font-size: 37px;
 	color:  white;
 }
+.article-title {
+	font-family: "BPG Nino Mtavruli", sans-serif;
+}
 .text-block {
 	display: inline-block;
 	width: 929px;
@@ -36,4 +39,13 @@
 .right-block {
 	display: inline-block;
 	vertical-align: top;
+}
+/*footer*/
+.divider {
+	width: 1px;
+	height: 27px;
+	background-color: blue;
+	display: inline-block;
+	margin-right: 36px;
+	margin-left: 50px;
 }
