@@ -1,3 +1,4 @@
+/*@import url("https://cdn.web-fonts.ge/fonts/bpg-nino-mtavruli/css/bpg-nino-mtavruli.min.css");*/
 .date {
 	width: 56px;
 	height: 56px;
@@ -20,8 +21,16 @@
 }
 .text1 {
 	margin-bottom: 21px;
+	font-family: 'ALK Life';
+	font-weight: bold ;
+	font-style: italic;
 }
-
+.latinuri-absoluturi {
+	font-family: 'Fuzzy Bubbles', cursive;
+}
+.latinuri-relatiuri{
+font-family: 'Roboto';
+}
 
 /*contact page*/
 .section-contact {
